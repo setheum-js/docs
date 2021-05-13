@@ -1,0 +1,2 @@
+# docs
+Setheum.JS Documentation
